@@ -1,5 +1,4 @@
-# GalEvo
-trial version
+# GalEvo trial version
 
 What to do:
 
