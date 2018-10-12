@@ -9,7 +9,7 @@ This applied yield can not be changed but I will provide more options in the fut
 
 3. Run galaxy_evol.py will simulate the galaxy evolution with given SFH (as in SFH.txt) for 10 Gyr. The output are shown in the generated plots.
 
-4. Run main.py. But first read the bottom part of it, i.e., after "if __name__ == '__main__':". 
+4. Run main.py. But first read the bottom part of it, i.e., after "if _ _name_ _ == '_ _main_ _':". 
 It contains two mode: 
 (a) the F05 mode requires a single SFH input.
 (b) the chemial-yield--galaxy-mass mode requires a list of SFH input.
